@@ -33,4 +33,3 @@ create-readme my-awesome-project
 ## Example
 
 An example of a generated README is the file you're reading right now - it was manually cleaned up, but most of it is generated.
-
